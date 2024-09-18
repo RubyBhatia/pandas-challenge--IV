@@ -23,7 +23,7 @@ Top-performing schools:
 
 In summary, the top-performing schools are all charter schools with a high percentage of students passing both math and reading. The highest performing school, Cabrera High School, has an overall passing percentage of 91.33%.
 
-(<Highest perfirming schools.png>)
+![Highest perfirming schools](https://github.com/user-attachments/assets/295c02ef-18d4-4256-b659-db709c38fad3)
 
 The bottom-performing schools are all district schools, with an overall passing percentage hovering around 53%. Rodriguez High School has the lowest overall passing rate at 52.99%, while Johnson High School has the highest among the bottom schools at 53.54%.
 
