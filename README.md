@@ -12,7 +12,7 @@ This is a dictionary that stores key performance metrics for the school district
 7. % Passing Reading: The percentage of students passing reading.
 8. % Overall Passing: The overall passing percentage, considering both math and reading.
 
-(<Disctrict Summary.png>)
+![Disctrict Summary](https://github.com/user-attachments/assets/4b1f848f-c54b-42a3-9475-a6a38df3585f)
 
 It can be clearly analysed the table: 
 
